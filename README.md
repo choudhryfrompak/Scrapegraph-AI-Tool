@@ -26,4 +26,5 @@ pull LLM and Embeddings model:
 `ollama pull nomic-embed-text`
 
 ## Now you can run script:
+`python3 scraper.py`
 Enter prompt and link to the webpage you want to scrape and see the json output stored in the file that exist in the same directory.
