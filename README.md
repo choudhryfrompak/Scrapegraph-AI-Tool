@@ -1,7 +1,7 @@
 # Scrapegraph-AI-Tool
 
 Clone this repository:
-`git clone `
+`git clone git@github.com:choudhryfrompak/Scrapegraph-AI-Tool.git `
 
 change directory: 
 `cd Scrapegraph-AI-Tool`
